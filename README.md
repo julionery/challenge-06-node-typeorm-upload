@@ -66,3 +66,10 @@ $ yarn dev:server
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<h4 align="center">
+    Feito com ❤ por Júlio Nery!
+    <a href="https://www.linkedin.com/in/julio-nery/" target="_blank">Entre em contato 👋 </a>
+</h4>
